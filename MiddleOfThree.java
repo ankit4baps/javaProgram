@@ -1,4 +1,4 @@
-package firstNextgen;
+package com.pkg.nextgen;
 import java.util.Arrays;
 import java.util.Scanner;
 

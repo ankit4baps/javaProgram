@@ -1,4 +1,4 @@
-package firstNextgen;
+package com.pkg.nextgen;
 
 public abstract class ThirdProgram {
 

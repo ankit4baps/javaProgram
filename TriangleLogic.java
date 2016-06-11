@@ -1,4 +1,4 @@
-package firstNextgen;
+package com.pkg.nextgen;
 
 import java.io.BufferedReader;
 import java.io.IOException;
